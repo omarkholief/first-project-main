@@ -4,7 +4,7 @@ import TheTodos from './components/TheTodos.vue'
 
 <template>
   <main class="container">
-    <h1 class="my-5 text-center text-2xl">TODO APP</h1>
+    <h1 class="my-5 text-center text-3xl">TODO APP</h1>
     <TheTodos />
   </main>
 </template>
